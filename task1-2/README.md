@@ -37,3 +37,7 @@ Result:
 11 tomcat log
 ![Image alt](https://github.com/DmitryKramich/zabbix/blob/master/task1-2/images/15%20tomcat-logs.png)
 ![Image alt](https://github.com/DmitryKramich/zabbix/blob/master/task1-2/images/16%20tomcat-logs-rule.png)
+
+12 trigger and mail for log
+![Image alt](https://github.com/DmitryKramich/zabbix/blob/master/task1-2/images/17%20triger%20for%20logs.png)
+![Image alt](https://github.com/DmitryKramich/zabbix/blob/master/task1-2/images/18.png)
